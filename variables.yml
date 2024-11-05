@@ -1,0 +1,4 @@
+# Variables for web app deployment
+---
+pkg_name: apache2
+web_content: '<h1> This website has been hosted by ansible </h1>'
