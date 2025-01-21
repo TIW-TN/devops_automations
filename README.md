@@ -1,2 +1,2 @@
 # devops_automations
-This repo contains the automation scripts for manual tasks
+This repo contains Automation scripts
